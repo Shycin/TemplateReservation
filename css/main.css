@@ -1,0 +1,30 @@
+body
+{
+    font-family: Raleway;
+}
+
+
+.main-color
+{
+    color: #0065FC;
+}
+.main-light-color
+{
+    color: #DEEBFF;
+}
+
+
+.main-color-bg
+{
+    background-color: #0065FC;
+}
+.main-light-color-bg
+{
+    background-color: #DEEBFF;
+}
+
+
+.secondary-color-bg
+{
+    background-color: #F2F2F2;
+}
